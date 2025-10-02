@@ -15,7 +15,7 @@ Basit ve statik bir PHP Router sınıfı. Bu sınıf, modern PHP projelerinde **
 
 1. GitHub’dan klonlayarak:
 ```bash
-git clone https://github.com/kullaniciadi/php-router.git
+git clone https://github.com/slmsmsk/PHP-Router.git
 cd php-router
 ```
 
@@ -79,3 +79,4 @@ php-router/
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.
+
